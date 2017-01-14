@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cozmosport-1470514767543",
+  "private_key_id": "f4efecda3a5b7d840331c4c8ebb9fb28109fb8c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEwAIBADANBgkqhkiG9w0BAQEFAASCBKowggSmAgEAAoIBAQCn2975gdiDHGT6\nsmAZfPOj0s/exPlggcm1IZink9OR0Nc39SlZkOkyO2cMkEvQpB04y67jhcWmZDRJ\nBAED9KPhVq5vvkm+6BWwht9/NWk9JTjju+/1LaUCcpsGweXsY+9OB6vfOcLCMaAK\nXPp2ac3XFkdLuK5W2ZVW74hneIQ9+zNmiWtGFEPCk2QV0WhZqO5DSY/4vpptITCX\nGNC1NH2UgI9QievhNspA3c3u3HmRrGFII1eA92iHwplugbazAQqz89Bs0ACeCZh7\nzfC8IztVlh+PRRf4C8M3ACKVjJXIwms9D7tkVp8Tm6qH0hGH1Jg7zMh+OoXnI8q6\naX6tRlqNAgMBAAECggEBAKRJ10de5ZkVXmPb16C6of9yYk9HfEgPX2svkahaT9VE\nkJBNHAZ0hTjL2QT76agwKAWhnO9Ey3kaU+4uxAuqEgeHfj0SAj2eCzR2HSL1FKZq\n2u5Rz/6oiPsHTmHjvvSJrvsxGO/nKY5FYb0i2WSyE2vzex5KiB+q37ZxxJB47P13\nXBLdlhZ+aeRl8r+V97M8aHHHvtRv3Ac0+g1o4JJZpHn3pv+zgRQqNFE6W6eVHWx9\nVtf2xXKG9ZoHFD31jyf06v+oE1Yer8aBxyIdgprL/UtRIMTeDbuMFMI1aKFuGUWA\nBoZL7aI+zO5CrlRIq5X+Uh2x7rnT4zCSbAbubE+bkIECgYEA1c/OAXl4Ob+KFv6B\nE2/VFVmQV2TT/pVLeI+u4nwdLy04a6GpDSITQeDKvBO1kOueDe4ddryw7lA6wJ0M\nKycFG6mtx2YSCJwPIGY3nL6TwZrjRDZS/wQ6EevFXf/kG9xBTOa94xC7w6g4rvnA\nuFh2Xmoi7FoMk7bdVEOnecY1E6ECgYEAyPrdnvvuBsB8VN8d0sqTsSMZO2cbFipf\n2F8Dq8525LSGUhHvX+Qy6I8D0PkoadRgncvNYfDdtP1ZlMxLpXFhF4cBrxtBkjbi\nzrD1Hg7ImXkfnQz32afLMaA/NvEVOfnw78KNVBHEKwiJfYAw1qp/UMN/vIJLc7mt\ng5vu2p/8n20CgYEAnz2Xpk17lzbqd9mw9HLz9mSwNgaoRRGYFgCdNZ1OdxZs0Oyj\n5V4djZEILS9YqMhy/Nj9JLO/6p3iRBYzO+hhy4qCHOIOSE9CjNTUUm81yJm87c6v\n3bKeNT6tziaJE57lG4s2nWiXD0+4d8kXGbT447SUsgcXGuS0zs9cajuOyEECgYEA\nmu/iyDyZfDUJ5Hf4ytcG0sknG4dZ91WFfA2Li/hn6dpNrplK+5a1tFkEbSaXhDaI\noT1LQRTqJiwl0jNIoettGTEoGDEf9LNBWGxNGvX0qXQZ7f3gWLglSkWqVhW28nH/\nzyYhw8zKeQ5kyA56GBNqgP2lzNJ5jmZ3IH2mvn4Vx2UCgYEAwxbqXDMO67/LXnEd\n4hX6hPs0ZFJMtpZeZLUqdO2FDDn3OB88EewMROftMS+wPTrLk+HMZQcJZb6mK9yg\nPzZ7nzUi2QyNNuLw2VPhcKr0fPBdpyd+01m43xajRgDyWhT8pFQFSq7hc3EBZftM\nldXG4N1JkwyqJKLCHW9Bcd7iLSE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cozmosport-1470514767543@appspot.gserviceaccount.com",
+  "client_id": "109068591875169246919",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cozmosport-1470514767543%40appspot.gserviceaccount.com"
+}
